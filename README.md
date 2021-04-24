@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Zwinge
+- 👋 Hi, I’m @Zwetsche
 - 👀 I’m interested in a variety of things. Among others are Languages, programming, gardening, music and gaming.
 - 🌱 I’m currently learning Angular and nodejs in my free time and ansible/python at work
 <!--- 💞️ I’m looking to collaborate on ...--->
